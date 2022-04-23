@@ -2,6 +2,7 @@
 import React from "react";
 import styled from "styled-components";
 
+//
 const StyledCharacter = styled.div`
   background-color: gray;
   opacity: 0.8;
